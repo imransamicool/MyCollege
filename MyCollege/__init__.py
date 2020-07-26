@@ -1,0 +1,1 @@
+from MyCollege.views import opr_menu
